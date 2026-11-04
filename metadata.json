@@ -1,0 +1,6 @@
+{
+  "name": "Snaxxory Kabab & BBQ - POS",
+  "description": "Mobile-first POS system for Snaxxory Kabab & BBQ in Mirpur, Dhaka with bilingual Bengali/English UI, inventory tracking, recipe costing, and sales reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
